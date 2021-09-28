@@ -9,5 +9,5 @@ exclude =
     docker
     releases
     .venv
-ignore = E129, E402, F841, C901, W504
+ignore = E129, E402, F841, C901, W504, W503
 max-line-length = 79
